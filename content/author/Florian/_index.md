@@ -36,11 +36,6 @@ interests = [
   institution = "Geschwister-Scholl-Gymnasium"
   year = since 2012
 
-# [[education.courses]]
-#  course = "BSc in Artificial Intelligence"
-#  institution = "Massachusetts Institute of Technology"
-#  year = 2008
-
 # Social/Academic Networking
 #
 # Icon pack "fab" includes the following social network icons:
