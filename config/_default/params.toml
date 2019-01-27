@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -61,7 +61,7 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "test@example.org"
+  email = "florian.poschmann@outlook.com"
   address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
   office_hours = """Monday 10:00 to 13:00<br>
