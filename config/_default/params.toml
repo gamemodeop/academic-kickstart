@@ -9,7 +9,7 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+font = "playfair"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -26,9 +26,9 @@ logo = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
+date_format = "02-01-2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Show estimated reading time for posts?
 reading_time = true
