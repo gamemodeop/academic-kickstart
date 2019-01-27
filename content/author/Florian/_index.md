@@ -29,12 +29,12 @@ interests = [
 [[education.courses]]
   course = "Primary School"
   institution = "Grundschule Stelingen"
-  year = 2008 to 2012
+  year = "2008 to 2012"
 
 [[education.courses]]
   course = "High School"
   institution = "Geschwister-Scholl-Gymnasium"
-  year = since 2012
+  year = "since 2012"
 
 # Social/Academic Networking
 #
