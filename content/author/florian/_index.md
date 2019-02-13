@@ -10,7 +10,7 @@ role = "Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Geschwister-Scholl-Gymnasium", url = "https://www.gsgberenbostel.de/" } ]
+organizations = [ { name = "Geschwister-Scholl-Gymnasium Berenbostel", url = "https://www.gsgberenbostel.de/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -21,8 +21,9 @@ email = "florian.poschmann@outlook.com"
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Information Retrieval",
+  "Photography",
+  "Basketball"
 ]
 
 # List qualifications (such as academic degrees)
@@ -33,7 +34,7 @@ interests = [
 
 [[education.courses]]
   course = "High School"
-  institution = "Geschwister-Scholl-Gymnasium"
+  institution = "Geschwister-Scholl-Gymnasium Berenbostel"
   year = "since 2012"
 
 # Social/Academic Networking
@@ -81,6 +82,7 @@ interests = [
 +++
 
 This Website is currently in build process!!!
+Florian Poschmann is a Student at the Geschwister-Scholl-Gymnasium. 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
